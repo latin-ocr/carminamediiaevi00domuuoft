@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminamediiaevi00domuuoft_0273.png"; bbox 0 0 1643 2574; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1643 1898">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1643 1898">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1643 1898; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1643 1898; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 855 1745 1459 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 855 1745 1459 1751">
+     <span class='ocr_line' id='line_1_2' title="bbox 855 1745 1459 1751; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 855 1745 1459 1751; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1789 1643 2574">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1789 1643 2574">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1789 1643 2574; baseline 0 -571"><span class='ocrx_word' id='word_1_3' title='bbox 0 1789 1643 2574; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_4' title='bbox 1522 1898 1643 2003; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 213 1816 1273 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 213 1816 1273 1976">
+     <span class='ocr_line' id='line_1_4' title="bbox 547 1816 1010 1871; baseline 0.002 -13"><span class='ocrx_word' id='word_1_5' title='bbox 547 1817 733 1871; x_wconf 61' lang='lat' dir='ltr'>Hagen,</span> <span class='ocrx_word' id='word_1_6' title='bbox 777 1816 1010 1860; x_wconf 69' lang='lat' dir='ltr'><strong>Hermann</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 648 1871 1241 1915; baseline 0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 648 1871 875 1915; x_wconf 62' lang='lat' dir='ltr'><strong>Carmina</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 911 1872 1074 1915; x_wconf 59' lang='lat' dir='ltr'>Medii</span> <span class='ocrx_word' id='word_1_9' title='bbox 1113 1873 1241 1915; x_wconf 69' lang='lat' dir='ltr'>Aeva&#39;.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 213 1922 1273 1976; baseline 0.001 -12"><span class='ocrx_word' id='word_1_10' title='bbox 213 1923 276 1971; x_wconf 73' lang='grc' dir='ltr'>ΗΒ</span> <span class='ocrx_word' id='word_1_11' title='bbox 547 1922 778 1965; x_wconf 60' lang='lat' dir='ltr'>maximam</span> <span class='ocrx_word' id='word_1_12' title='bbox 813 1923 1011 1976; x_wconf 61' lang='lat' dir='ltr'><strong>parbem</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1048 1923 1273 1965; x_wconf 62' lang='lat' dir='ltr'>inedita</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
